@@ -4,7 +4,8 @@
   <img src="https://unsplash.com/photos/pen-near-black-lined-paper-and-eyeglasses-q10VITrVYUM" alt="Banner">
 </p>
 
-<p align="center"> I am a frontend developer  </p>
+<p align="center">I am a front-end developer </p>
+
 
 <h2 align="center">🚀  I’m currently working on</h2>
 <p align="center">
