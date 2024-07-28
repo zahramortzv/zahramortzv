@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="https://unsplash.com/photos/pen-near-black-lined-paper-and-eyeglasses-q10VITrVYUM" alt="Banner">
-</p>
-
 <p align="center">I am a front-end developer </p>
 
 
