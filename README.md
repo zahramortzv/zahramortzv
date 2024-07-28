@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://unsplash.com/photos/macbook-pro-near-green-potted-plant-on-table-zNRITe8NPqY" alt="Banner">
+  <img src="https://unsplash.com/photos/pen-near-black-lined-paper-and-eyeglasses-q10VITrVYUM" alt="Banner">
 </p>
 
 <p align="center"> I am a frontend developer  </p>
