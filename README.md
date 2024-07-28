@@ -25,8 +25,8 @@
 
 <h2 align="center">📫 How to reach me: </h2>
 <p align="center">
-  <a href="zahramortazavi23@gmail.com">✉️ ایمیل</a> | 
-  <a href="https://linkedin.com/in/zahramortzv/">🔗 لینکدین</a>
+  <a href="zahramortazavi23@gmail.com">✉️ Email</a> | 
+  <a href="https://linkedin.com/in/zahramortzv/">🔗 LinkedIn</a>
 </p>
 
 <p align="center">
