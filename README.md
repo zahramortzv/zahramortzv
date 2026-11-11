@@ -20,9 +20,6 @@
   <a href="https://linkedin.com/in/zahramortzv/">🔗 LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt=""/>
-</p>
 
 <!--
 **zahramortzv/zahramortzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
